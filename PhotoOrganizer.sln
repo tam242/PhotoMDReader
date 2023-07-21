@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoOrganizer", "PhotoOrganizer\PhotoOrganizer.csproj", "{7DAC1A7F-3CF3-449F-93ED-48F359E1A71A}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PhotoOrgDB", "PhotoOrgDB\PhotoOrgDB.sqlproj", "{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DAC1A7F-3CF3-449F-93ED-48F359E1A71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAC1A7F-3CF3-449F-93ED-48F359E1A71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAC1A7F-3CF3-449F-93ED-48F359E1A71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAC1A7F-3CF3-449F-93ED-48F359E1A71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9537D3BD-34F3-4127-ACA5-A2DC31D358F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB3AC41-DD04-4CB9-B849-15856332D08D}
+	EndGlobalSection
+EndGlobal
